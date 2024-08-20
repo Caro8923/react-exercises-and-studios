@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Piano</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>The piano alphabet is comprised of notes A through G</li>
+            <li>Middle C is the first note to learn</li>
+            <li>Notes are represented in treble clef or bass clef language</li>
          </ol>
       </div>
    );
